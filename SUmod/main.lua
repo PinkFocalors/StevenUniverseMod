@@ -412,7 +412,15 @@ SMODS.Joker{ -- Rose Quartz
     loc_txt = {
         name = '{C:hearts}Rose Quartz{}',
         text = {
-            'Leader of the Crystal Gems.'
+            'Leader of the Crystal Gems.',
+            '{C:hearts,s:0.8}When a Gme is made, it\'s for a reason.{}',
+            '{C:hearts,s:0.8}They burst out of the ground already knowing what they\'re supposed to be, and then...{}',
+            '{C:hearts,s:0.8}That\'s what they are.{}',
+            '{C:hearts,s:0.8}Forever. But you, you\'re supposed to change.{}',
+            '{C:hearts,s:0.8}You\'re never the same even moment to moment.{}',
+            '{C:hearts,s:0.8}You\'re allowed and expected to invent who you are.{}',
+            '{C:hearts,s:0.8}What an incredible power, the ability to \"grow up.\"{}',
+            '{C:legendary,s:0.7}- From \"Greg the Babysitter\"{}'
         }
     },
     atlas = 'Rose', --atlas' key
