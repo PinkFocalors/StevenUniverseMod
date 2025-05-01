@@ -22,5 +22,5 @@ Amethyst,
 Garnet (Ruby + Sapphire),
 Stevonnie (Steven + Connie, No ability at the moment),
 Rhodonite (Ruby + Pearl),
-Aventurine (Lapis + Peridot, No ability at the moment),
+Aventurine (Lapis + Peridot),
 Pink Diamond (Rose + Pale Rose OR Steven + Rose or Steven + Pale Rose)
