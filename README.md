@@ -18,7 +18,7 @@ Ruby,
 Sapphire,
 Amethyst,
 
-# FUSION JOKERS
+# FUSION JOKERS (There's a lot of them)
 Garnet (Ruby + Sapphire),
 Stevonnie (Steven + Connie, No ability at the moment),
 Rhodonite (Ruby + Pearl),
