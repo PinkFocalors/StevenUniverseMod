@@ -1,26 +1,9 @@
-# Steven Universe Jokers & Fusions
-Current Jokers:
-White Diamond,
-Blue Diamond,
-Yellow Diamond,
-Pink Diamond,
-Rose Quartz (No ability at the moment),
-Steven Universe (No ability at the moment),
-Stevonnite (No ability at the moment),
-Jasper (No ability at the moment),
-Pearl,
-A Single Pale Rose (Fusion Only Joker, no ability),
-Cracked Lapis Lazuli,
-Lapis Lazuli,
-Peridot,
-Spinel,
-Ruby,
-Sapphire,
-Amethyst,
+# Steven Universe Jokers & Fusions (Currently 43 Jokers and 6 Consumables as of 5/10/25)
+![image](https://github.com/user-attachments/assets/6ce955f4-58c1-468f-8e4f-6c74e5152c97)
+![image](https://github.com/user-attachments/assets/c371629a-6033-4f36-90cd-e23de64c282d)
+![image](https://github.com/user-attachments/assets/809d78f2-fc02-47de-96f9-dcf0a326b6bb)
 
-# FUSION JOKERS (There's a lot of them)
-Garnet (Ruby + Sapphire),
-Stevonnie (Steven + Connie, No ability at the moment),
-Rhodonite (Ruby + Pearl),
-Aventurine (Lapis + Peridot),
-Pink Diamond (Rose + Pale Rose OR Steven + Rose or Steven + Pale Rose)
+# Joker Ability Consumable Cards
+![image](https://github.com/user-attachments/assets/aba6d86c-712e-453e-9e04-d8aa44fa145b)
+
+
