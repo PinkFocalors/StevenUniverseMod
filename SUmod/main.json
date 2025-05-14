@@ -9,6 +9,6 @@
 	"priority": -9999,
 	"badge_colour": "#FF00FF",
 	"badge_text_colour": "#DC143C",
-	"version": "1.5.7",
+	"version": "1.5.8",
 	"dependencies": []
 }

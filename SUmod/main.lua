@@ -5328,7 +5328,9 @@ SMODS.Joker{
                 local destructable_consus = {}
                 for i = 1, #G.consumeables.cards do
                     if not G.consumeables.cards[i].ability.eternal and not G.consumeables.cards[i].getting_sliced
-                    and (G.consumeables.cards[i].ability.set == "Tarot" or G.consumeables.cards[i].ability.set == "Planet" or G.consumeables.cards[i].ability.set == "Spectral") then
+                    and (G.consumeables.cards[i].ability.set == "Tarot" 
+                    or G.consumeables.cards[i].ability.set == "Planet"
+                    or G.consumeables.cards[i].ability.set == "Spectral") then
                         destructable_consus[#destructable_consus+1] = G.consumeables.cards[i]
                     end
                 end
@@ -5352,6 +5354,20 @@ SMODS.Joker{
                 colour = G.C.EDITION
             }
         end
+    end,
+    add_to_deck = function(self, card, from_debuff)
+        if not from_debuff and next(SMODS.find_card('j_sbeven_cluster')) then
+            card:start_dissolve()
+        end
+    end,
+    -- Add the "UNIVERSE" badge at the bottom of the card
+    set_badges = function(self, card, badges)
+        badges[#badges + 1] = create_badge(
+            "Steven Universe",          -- Text displayed on the badge
+            G.C.PURPLE,          -- Badge background color
+            G.C.EDITION,           -- Text color
+            1                    -- Scaling factor (default size)
+        )
     end,
 }
 
