@@ -1,3 +1,4 @@
+# Download required mods & the latest release
 # Steven Universe Mod additions (as of 5/18/25)
 ![image](https://github.com/user-attachments/assets/577c7cec-4a4a-40b2-a00b-6a80bf692f1f)
 # Jokers
